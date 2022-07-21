@@ -1,0 +1,27 @@
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\bin\Debug\net6.0\appsettings.json
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\bin\Debug\net6.0\Universtyadministrationapp.staticwebassets.runtime.json
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\bin\Debug\net6.0\Universtyadministrationapp.exe
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\bin\Debug\net6.0\Universtyadministrationapp.deps.json
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\bin\Debug\net6.0\Universtyadministrationapp.runtimeconfig.json
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\bin\Debug\net6.0\Universtyadministrationapp.dll
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\bin\Debug\net6.0\Universtyadministrationapp.pdb
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\Universtyadministrationapp.csproj.AssemblyReference.cache
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\Universtyadministrationapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\Universtyadministrationapp.AssemblyInfoInputs.cache
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\Universtyadministrationapp.AssemblyInfo.cs
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\Universtyadministrationapp.csproj.CoreCompileInputs.cache
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\Universtyadministrationapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\Universtyadministrationapp.RazorAssemblyInfo.cache
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\Universtyadministrationapp.RazorAssemblyInfo.cs
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\scopedcss\bundle\Universtyadministrationapp.styles.css
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\scopedcss\projectbundle\Universtyadministrationapp.bundle.scp.css
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\Universtyadministrationapp.dll
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\refint\Universtyadministrationapp.dll
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\Universtyadministrationapp.pdb
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\Universtyadministrationapp.genruntimeconfig.cache
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\ref\Universtyadministrationapp.dll
+C:\Users\kaafiso\source\repos\Universtyadministrationapp\Universtyadministrationapp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout 2.cshtml.rz.scp.css
